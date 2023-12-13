@@ -1,0 +1,4 @@
+*__pycache__
+detectron2_repo*
+build*
+*egg-info
